@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there, I'm Lorenzo 👋
 
-<!--
-**ilzenzo/ilzenzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer passionate about solving real-world problems through code and collaboration. I enjoy working with JavaScript, Vue, and Node.js, and am always eager to learn and explore new technologies.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** JavaScript (Vue, Node.js), Python, HTML/CSS
+- **Tools:** Git, GitHub, VSCode
+- **Databases:** MongoDB, PostgreSQL
+- **Other:** Docker, Kubernetes
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ilzenzo&show_icons=true&theme=tokyonight)
+
+## 📬 Get in Touch
+
+- Site: [zenzo.ch](https://zenzo.ch)
+- Twitter: [@ilzenzo](https://twitter.com/ilzenzo)
+- LinkedIn: [zenzo](https://www.linkedin.com/in/zenzo/)
+
+## 🔗 Quick Links
+
+- [My Projects](https://www.zenzo.ch/projects)
