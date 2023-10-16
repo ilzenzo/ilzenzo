@@ -9,10 +9,6 @@ I'm a Software Engineer passionate about solving real-world problems through cod
 - **Databases:** MongoDB, PostgreSQL
 - **Other:** Docker, Kubernetes
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ilzenzo&show_icons=true&theme=tokyonight)
-
 ## 📬 Get in Touch
 
 - Site: [zenzo.ch](https://zenzo.ch)
